@@ -1,4 +1,4 @@
-module github.com/zyxar/argo
+module github.com/aynakeya/argo
 
 go 1.15
 
